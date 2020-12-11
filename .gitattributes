@@ -1,0 +1,2 @@
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
