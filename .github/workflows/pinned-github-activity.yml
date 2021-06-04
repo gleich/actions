@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.ACTIVITY_BOX_GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: Matt-Gleich
+          GH_USERNAME: gleich
           GIST_ID: 4162eb70819843b3344d42c56a054c7e
